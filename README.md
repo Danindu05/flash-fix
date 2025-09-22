@@ -20,7 +20,7 @@ AI-powered proofreading anywhere on Windows — just press **ALT+X**.
 
 ---
 
-## 📥 Download / Releases
+## 📥 Download
 
 Check out the [Releases](https://github.com/Danindu05/flash-fix/releases) page to download.
 
